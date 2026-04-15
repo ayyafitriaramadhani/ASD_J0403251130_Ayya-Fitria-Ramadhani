@@ -1,0 +1,6 @@
+BRG001,Roti,36
+BRG002,AirMineral,15
+BRG003,TehBotol,10
+BRG004,Kopi,10
+BRG005,mie kuah,10
+BRG006,mochi,10
